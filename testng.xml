@@ -14,6 +14,15 @@
          <!--  <class name="com.demo.testscripts.Tracetestsigninpage" />-->
          <!--   <class name="com.demo.testscripts.Tracetestlogin2" />-->
          <!-- <class name="com.demo.testscripts.Tracetestlogout" />-->
+         <class name="com.demo.testscripts.Inventorycapacity" />
+         <class name="com.demo.testscripts.Inventoryquotation" />
+             <!--<class name="com.demo.testscripts.Importsales" />-->
+             <class name="com.demo.testscripts.Stockedinlot" />
+             <class name="com.demo.testscripts.Stockin" />
+             <class name="com.demo.testscripts.Currentstock" />
+             <class name="com.demo.testscripts.Stockedinlot" />
+             <class name="com.demo.testscripts.Salesdata" />
+             <class name="com.demo.testscripts.Stockout" />
             
         </classes>
     </test> <!-- Test -->
